@@ -1,4 +1,4 @@
-**Program**: Set of Programs to create Bezier Curves (using De Casteljau's and Bernstein Bezier algorithms) along with a generatinga surface of revolution given a curve 
+**Program**: Set of Programs to create Bezier Curves (using De Casteljau's and Bernstein Bezier algorithms) along with a generating a surface of revolution given a curve 
 
 **Author**: Anirudh Ravi
 
@@ -16,11 +16,11 @@ Implemented the Bernstein form of 2D Bezier curve for any degree. If the user en
 
 **Program 3: EditableBezier.cpp**
 
-Makes the Bezier curve editable in the sense that if one wants can drag any control point of the curve and the curve gets updated automatically.
+Makes the Bezier curve editable in the sense that if one wants they can drag any control point of the curve and the curve gets updated automatically.
 
 **Program 4: BezierSurfaceRevolution.c**
 
-Samples the curve made in task 2 of problem 2 at uniform interval of size 0.1. Makes a surface of revolution using these sampled points on the curve. The surface of revolution will be a polygonal mesh. This polygonal mesh is stored in an OFF file format and can be viewed using a viewer such as Geomview/ Meshview/Paraview.
+Samples the curves generated using Bernstein Bezier approach at a uniform interval of size 0.1. Makes a surface of revolution using these sampled points on the curve. The surface of revolution will be a polygonal mesh. This polygonal mesh is stored in an OFF file format and can be viewed using a viewer such as Geomview/ Meshview/Paraview.
 
 **Executing**:
 
