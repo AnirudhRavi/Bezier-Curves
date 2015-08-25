@@ -24,6 +24,6 @@ Samples the curve made in task 2 of problem 2 at uniform interval of size 0.1. M
 
 **Executing**:
 
-gcc <Program_Name> -lGL -lGLU -lglut -lm -o <Executable_Name>
+gcc ProgramName -lGL -lGLU -lglut -lm -o ExecutableName
 
-./<Executable_Name> (Execute)
+./ExecutableName (Execute)
